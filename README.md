@@ -1,2 +1,2 @@
 ## Live Link 
-[url]: (https://omnifood-tutorial-project.netlify.app/)
+[url](https://omnifood-tutorial-project.netlify.app/)
